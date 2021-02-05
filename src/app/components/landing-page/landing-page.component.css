@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+.jumbotron{    
+    margin-bottom:2%;    
+    background-color: transparent;
+    color: lightcyan;
+    padding: 2%;    
+}
+
+input{
+    background-color: lightcyan;
+}
+
+.border-r{
+    border-right: 1px solid gray;
+}
+
+.border-b{
+    border-bottom: 1px solid gray;
+    margin-bottom: 1em;
+}
+
+hr{    
+    border-color: lightgray;
+}
+
+.username{
+    font-size: x-large;
+    color: #E2C2B3;
+    font-style: 'Lato';
+}
+
+.maroon{
+    color: #E2C2B3;
+}
+
+img{
+    max-width: 60%;    
+    object-fit: cover;
+    border-radius: 1em;
+    box-shadow: 3px 5px rgb(255, 165, 0, 0.3)
+}
+
+.text-style{
+    font-size: small;
+}
+
+.card{
+    background-color: transparent;
+    height: 100%;
+    border-color: black;
+}
+
+.jumbotron a{
+    text-transform: capitalize;
+    color: #E2C2B3;
+}
+
+.jumbotron a:hover{
+    color: tomato;
+}
+
+.text-normal{
+    font-size: 1.1em;
+    font-style: 'Lato';
+}
