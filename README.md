@@ -1,5 +1,5 @@
 # GitHub Library
-#### An Angular app that allows one to search for GitHub users and repositories, 18/05/2020
+#### An Angular app that allows one to search for GitHub users and repositories, 08/02/2021
 #### By [Ryan Rotich](https://github.com/RYAN2540)
 #### Description
 
@@ -11,7 +11,7 @@ GitHub Library is an app that allows one to search for GitHub users and reposito
 </tr>
 </table> 
 
-#### Latest updated version is on 5th February 2021.
+#### Latest updated version is on 8th February 2021.
 \*Check out the project through <a href="">This Link.</a>
 
 ## Technologies used
