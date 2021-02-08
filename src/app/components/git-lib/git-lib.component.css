@@ -14,11 +14,12 @@
     src: url(/../../assets/font/ZeF\ RAVE.ttf)
   }
 .title-bg{
-    font-size: xx-large;
+    font-size: 5em;
     font-family: 'ZeF RAVE';
+    font-weight: lighter;
 }
 .title-sm{
-    font-size: xx-large;
+    font-size: 5em;
     font-weight: lighter;
     font-family: 'ZeF RAVE';
     color: #79031D;
