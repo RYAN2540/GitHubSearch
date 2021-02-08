@@ -53,7 +53,7 @@ To contribute to this project on any modules, follow these easy steps:
 - Create a Pull request
 
 ## Support and contact details
-For any queries, issues, ideas or concerns contact [RYAN ROTICH](austinbrian005@gmail.com). Your feedback is highly appreciated. 
+For any queries, issues, ideas or concerns contact [Ryan Rotich](austinbrian005@gmail.com). Your feedback is highly appreciated. 
 ### [License](LICENSE)
 MIT license
-Copyright (c) 2020 **RYAN ROTICH**
+Copyright (c) 2020 **Ryan Rotich**
