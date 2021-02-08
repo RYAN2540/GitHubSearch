@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 .jumbotron{    
     margin-bottom:2%;    
-    background-color: #687477;
+    background-color: transparent;
     color: lightcyan;
     padding: 2%; 
     background-position: center;
@@ -27,35 +28,41 @@ hr{
 .username{
     font-size: x-large;
     color: #E2C2B3;
+    font-family: 'Lato';
 }
 
 .maroon{
     color: #E2C2B3;
+    font-family: 'Lato';
 }
 
 img{
     max-width: 60%;    
     object-fit: cover;
     border-radius: 1em;
-    box-shadow: 3px 5px rgb(255, 165, 0, 0.3)
+    box-shadow: 3px 5px #E2C2B3
 }
 
 .text-style{
     font-size: small;
+    font-family: 'Lato';
+    text-transform: capitalize;
 }
 
 .card{
-    background-color: black;
+    background-color: transparent;
     height: 100%;
+    border-color: #E2C2B3;
 }
 
 .jumbotron a{
+    text-transform: capitalize;
     text-decoration: none;
-    color: rgb(255, 165, 0, 0.8);
+    color: #E2C2B3;
 }
 
 .jumbotron a:hover{
-    color: cyan;
+    color: tomato;
 }
 
 .text-normal{
