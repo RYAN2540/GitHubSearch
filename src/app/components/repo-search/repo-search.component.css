@@ -39,6 +39,7 @@ hr{
 .card{
     background-color: transparent;
     height: 100%;
+    border-color: #E2C2B3;
 }
 
 .jumbotron a{
