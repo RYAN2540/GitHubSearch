@@ -37,7 +37,7 @@ img{
     max-width: 60%;    
     object-fit: cover;
     border-radius: 1em;
-    box-shadow: 3px 5px rgb(255, 165, 0, 0.3)
+    box-shadow: 3px 5px #E2C2B3
 }
 
 .text-style{
