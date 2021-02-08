@@ -1,7 +1,6 @@
 .padding {
     margin-bottom: 2em;
 }
-
 .jumbotron{        
     background-color: rgb(0, 0, 0);
     color: lightcyan;
@@ -10,17 +9,23 @@
     margin-top: 5px;
     padding-top: 5%;  
 }
-
+@font-face{
+    font-family: 'ZeF RAVE';
+    src: url(/../../assets/font/ZeF\ RAVE.ttf)
+  }
 .title-bg{
     font-size: xx-large;
+    font-family: 'ZeF RAVE';
 }
-
 .title-sm{
     font-size: xx-large;
     font-weight: lighter;
+    font-family: 'ZeF RAVE';
     color: #79031D;
+
 }
 
 .active button{
     color: lightcyan;
 }
+
