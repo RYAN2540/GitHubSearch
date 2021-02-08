@@ -22,15 +22,15 @@ input{
 hr{    
     border-color: lightgray;
 }
-
 .username{
     font-size: x-large;
     color: #E2C2B3;
-    font-style: 'Lato';
+    font-family: 'Lato';
 }
 
 .maroon{
     color: #E2C2B3;
+    font-family: 'Lato';
 }
 
 img{
@@ -42,12 +42,14 @@ img{
 
 .text-style{
     font-size: small;
+    font-family: 'Lato';
+    text-transform: capitalize;
 }
 
 .card{
     background-color: transparent;
     height: 100%;
-    border-color: black;
+    border-color: #E2C2B3;
 }
 
 .jumbotron a{
