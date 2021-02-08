@@ -12,7 +12,7 @@ GitHub Library is an app that allows one to search for GitHub users and reposito
 </table> 
 
 #### Latest updated version is on 8th February 2021.
-\*Check out the project through <a href="">This Link.</a>
+\*Check out the project through <a href="https://ryan2540.github.io/GitHubSearch/">This Link.</a>
 
 ## Technologies used
 
